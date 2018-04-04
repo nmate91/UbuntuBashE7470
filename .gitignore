@@ -1,0 +1,4 @@
+*
+#Except the profile and the gitignore
+!.profile
+!.gitignore
