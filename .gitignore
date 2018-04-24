@@ -1,4 +1,5 @@
 *
 #Except the profile and the gitignore
 !.profile
+!myInstaller.sh
 !.gitignore
